@@ -35,5 +35,8 @@
   "tooltip.mccourse.chainsaw.tooltip.2": "§oChainsaw go vrooom!§r",
 
   "tooltip.mccourse.magic_block.tooltip.1": "This block is §9magical§r!",
-  "tooltip.mccourse.strawberry.tooltip.1": "Tastes great!"
+  "tooltip.mccourse.strawberry.tooltip.1": "Tastes great!",
+
+  "sounds.mccourse.chainsaw_cut": "Chainsaw Sounds",
+  "sounds.mccourse.chainsaw_pull": "Pulling Chainsaw Sounds"
 }
