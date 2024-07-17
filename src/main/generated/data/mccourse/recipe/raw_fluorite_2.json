@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "F": {
+      "item": "mccourse:fluorite"
+    },
+    "S": {
+      "item": "minecraft:stone"
+    }
+  },
+  "pattern": [
+    "SSS",
+    "FFF",
+    "SSS"
+  ],
+  "result": {
+    "count": 1,
+    "id": "mccourse:raw_fluorite"
+  }
+}

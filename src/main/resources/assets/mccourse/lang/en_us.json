@@ -1,0 +1,39 @@
+{
+  "item.mccourse.fluorite": "Fluorite",
+  "item.mccourse.raw_fluorite": "Raw Fluorite",
+  "item.mccourse.chainsaw": "Chainsaw",
+  "item.mccourse.strawberry": "Strawberry",
+  "item.mccourse.starlight_ashes": "Starlight Ashes",
+
+
+  "block.mccourse.fluorite_block": "Fluorite Block",
+
+  "block.mccourse.fluorite_ore": "Fluorite Ore",
+  "block.mccourse.fluorite_deepslate_ore": "Fluorite Deepslate Ore",
+  "block.mccourse.fluorite_end_ore": "Fluorite End Ore",
+  "block.mccourse.fluorite_nether_ore": "Fluorite Nether Ore",
+
+  "block.mccourse.magic_block": "Magic Block",
+
+  "block.mccourse.fluorite_stairs": "Fluorite Stairs",
+  "block.mccourse.fluorite_slab": "Fluorite Slab",
+  "block.mccourse.fluorite_button": "Fluorite Button",
+  "block.mccourse.fluorite_pressure_plate": "Fluorite Pressure Plate",
+
+  "block.mccourse.fluorite_fence": "Fluorite Fence",
+  "block.mccourse.fluorite_fence_gate": "Fluorite Fence Gate",
+  "block.mccourse.fluorite_wall": "Fluorite Wall",
+
+  "block.mccourse.fluorite_door": "Fluorite Door",
+  "block.mccourse.fluorite_trapdoor": "Fluorite Trapdoor",
+
+  "itemgroup.fluorite": "Fluorite Items",
+  "itemgroup.fluorite_blocks": "Fluorite Blocks",
+
+  "tooltip.mccourse.chainsaw.tooltip.shift": "Press §eShift§r for more Information!",
+  "tooltip.mccourse.chainsaw.tooltip.1": "This Chainsaw will cut down trees fast!",
+  "tooltip.mccourse.chainsaw.tooltip.2": "§oChainsaw go vrooom!§r",
+
+  "tooltip.mccourse.magic_block.tooltip.1": "This block is §9magical§r!",
+  "tooltip.mccourse.strawberry.tooltip.1": "Tastes great!"
+}

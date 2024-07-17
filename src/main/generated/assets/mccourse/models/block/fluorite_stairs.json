@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/stairs",
+  "textures": {
+    "bottom": "mccourse:block/fluorite_block",
+    "side": "mccourse:block/fluorite_block",
+    "top": "mccourse:block/fluorite_block"
+  }
+}
