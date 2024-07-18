@@ -10,6 +10,11 @@
 
   "item.mccourse.spectre_staff": "Spectre Staff",
 
+  "item.minecraft.potion.effect.slimey_potion": "Slimey Potion",
+  "item.minecraft.splash_potion.effect.slimey_potion": "Slimey Splash Potion",
+  "item.minecraft.lingering_potion.effect.slimey_potion": "Slimey Lingering Potion",
+
+
   "block.mccourse.fluorite_block": "Fluorite Block",
 
   "block.mccourse.fluorite_ore": "Fluorite Ore",
