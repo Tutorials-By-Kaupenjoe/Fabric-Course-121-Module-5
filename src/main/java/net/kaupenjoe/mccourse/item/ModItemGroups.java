@@ -52,6 +52,8 @@ public class ModItemGroups {
                         entries.add(ModBlocks.FLUORITE_DOOR);
                         entries.add(ModBlocks.FLUORITE_TRAPDOOR);
 
+                        entries.add(ModBlocks.PEDESTAL);
+
                     }).build());
 
     public static void registerItemGroups() {
