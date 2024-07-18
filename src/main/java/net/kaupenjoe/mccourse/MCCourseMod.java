@@ -8,6 +8,7 @@ import net.fabricmc.fabric.api.registry.FuelRegistry;
 import net.kaupenjoe.mccourse.block.ModBlocks;
 import net.kaupenjoe.mccourse.command.ReturnHomeCommand;
 import net.kaupenjoe.mccourse.command.SetHomeCommand;
+import net.kaupenjoe.mccourse.effect.ModEffects;
 import net.kaupenjoe.mccourse.event.PlayerCopyHandler;
 import net.kaupenjoe.mccourse.item.ModItemGroups;
 import net.kaupenjoe.mccourse.item.ModItems;
@@ -28,6 +29,7 @@ public class MCCourseMod implements ModInitializer {
 		ModBlocks.registerModBlocks();
 
 		ModSounds.registerSounds();
+		ModEffects.registerEffects();
 
 		FuelRegistry.INSTANCE.add(ModItems.STARLIGHT_ASHES, 600);
 
