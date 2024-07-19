@@ -1,10 +1,10 @@
-// 1.21	2024-07-17T19:33:24.765516	MC Course Mod/Model Definitions
+// 1.21	2024-07-19T12:06:29.26693	MC Course Mod/Model Definitions
 f1576a0d92bd6dddcefa45c5b355fa6c609f1c51 assets\mccourse\models\block\fluorite_button_inventory.json
 84d4577e7b636ea9e6a2b6bb513e557d4051a32b assets\mccourse\models\block\fluorite_stairs_outer.json
 0c557fa888aa588865ad6422a2e2cd196464ecfb assets\mccourse\models\block\fluorite_ore.json
-1c86b3ae324e2b38a13ec0792def9fce389b23a6 assets\mccourse\models\item\raw_fluorite.json
-e3bea00dd7e933deb59eaf492b010a1f8fdd914f assets\mccourse\models\block\magic_block.json
 3f0a8b85ebd837c54134a94cb8c1866091ef26e0 assets\mccourse\blockstates\fluorite_deepslate_ore.json
+e3bea00dd7e933deb59eaf492b010a1f8fdd914f assets\mccourse\models\block\magic_block.json
+1c86b3ae324e2b38a13ec0792def9fce389b23a6 assets\mccourse\models\item\raw_fluorite.json
 f2aeca2040ea829b8b6878ebe3a168fcb74381d2 assets\mccourse\models\item\chainsaw.json
 788703d1170a9f522aa937bcad4d222fdf303c80 assets\mccourse\models\block\fluorite_fence_post.json
 b7d666bc87397258200dc27a96395ba532b6a945 assets\mccourse\models\block\fluorite_deepslate_ore.json
@@ -55,8 +55,8 @@ d6c1b58b1147ffe8efe1bb3d67bc6872170f4682 assets\mccourse\models\block\fluorite_d
 db22cc136c9699563c45dea7e2328049e01965fe assets\mccourse\models\item\fluorite.json
 4d3289c10cdcdfff9327db225949a134a9b73498 assets\mccourse\blockstates\fluorite_stairs.json
 7c97822324151c00344bb3016998dd28fcaffdb2 assets\mccourse\blockstates\fluorite_fence.json
-1dd9bf7e5671d59ec87c0caf8ce2e2830172dce0 assets\mccourse\models\item\fluorite_door.json
 a28afaf6baa46a2ec0d7bbd7981973ca78d422d9 assets\mccourse\blockstates\fluorite_pressure_plate.json
+1dd9bf7e5671d59ec87c0caf8ce2e2830172dce0 assets\mccourse\models\item\fluorite_door.json
 f99948d4089c78a993e0252e1e821d091394da75 assets\mccourse\blockstates\fluorite_ore.json
 18614f2c0beb398707f0e5080851a87ff6f5de1d assets\mccourse\models\block\fluorite_door_top_right.json
 2077b3b65b1dd3d36113e8207d722fe47ae5979e assets\mccourse\models\block\fluorite_fence_side.json

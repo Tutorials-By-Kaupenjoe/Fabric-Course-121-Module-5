@@ -43,6 +43,8 @@
   "itemgroup.fluorite": "Fluorite Items",
   "itemgroup.fluorite_blocks": "Fluorite Blocks",
 
+  "entity.minecraft.villager.kaupenger": "Kaupenger",
+
   "tooltip.mccourse.chainsaw.tooltip.shift": "Press §eShift§r for more Information!",
   "tooltip.mccourse.chainsaw.tooltip.1": "This Chainsaw will cut down trees fast!",
   "tooltip.mccourse.chainsaw.tooltip.2": "§oChainsaw go vrooom!§r",

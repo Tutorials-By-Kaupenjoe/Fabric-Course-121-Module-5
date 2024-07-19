@@ -16,10 +16,10 @@ import net.kaupenjoe.mccourse.item.ModItemGroups;
 import net.kaupenjoe.mccourse.item.ModItems;
 import net.kaupenjoe.mccourse.potion.ModPotions;
 import net.kaupenjoe.mccourse.sound.ModSounds;
+import net.kaupenjoe.mccourse.villager.ModVillagers;
 import net.minecraft.item.ItemStack;
 import net.minecraft.item.Items;
 import net.minecraft.potion.Potions;
-import net.minecraft.server.network.ServerPlayerEntity;
 import net.minecraft.village.TradeOffer;
 import net.minecraft.village.TradedItem;
 import net.minecraft.village.VillagerProfession;
@@ -41,6 +41,7 @@ public class MCCourseMod implements ModInitializer {
 		ModEffects.registerEffects();
 
 		ModPotions.registerPotions();
+		ModVillagers.registerVillagers();
 
 		FuelRegistry.INSTANCE.add(ModItems.STARLIGHT_ASHES, 600);
 
@@ -75,5 +76,16 @@ public class MCCourseMod implements ModInitializer {
 			));
 		});
 
+		TradeOfferHelper.registerVillagerOffers(ModVillagers.KAUPENGER, 1, factories -> {
+			factories.add((entity, random) -> new TradeOffer(
+					new TradedItem(Items.DIAMOND, 6),
+					new ItemStack(ModItems.RAW_FLUORITE, 19), 4, 1, 0.04f
+			));
+
+			factories.add((entity, random) -> new TradeOffer(
+					new TradedItem(ModItems.FLUORITE, 6),
+					new ItemStack(ModItems.SPECTRE_STAFF, 1), 1, 8, 0.04f
+			));
+		});
 	}
 }
