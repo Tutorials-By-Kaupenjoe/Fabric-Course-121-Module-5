@@ -12,6 +12,7 @@ import net.kaupenjoe.mccourse.command.ReturnHomeCommand;
 import net.kaupenjoe.mccourse.command.SetHomeCommand;
 import net.kaupenjoe.mccourse.effect.ModEffects;
 import net.kaupenjoe.mccourse.event.PlayerCopyHandler;
+import net.kaupenjoe.mccourse.fluid.ModFluids;
 import net.kaupenjoe.mccourse.item.ModItemGroups;
 import net.kaupenjoe.mccourse.item.ModItems;
 import net.kaupenjoe.mccourse.potion.ModPotions;
@@ -42,6 +43,8 @@ public class MCCourseMod implements ModInitializer {
 
 		ModPotions.registerPotions();
 		ModVillagers.registerVillagers();
+
+		ModFluids.registerFluids();
 
 		FuelRegistry.INSTANCE.add(ModItems.STARLIGHT_ASHES, 600);
 

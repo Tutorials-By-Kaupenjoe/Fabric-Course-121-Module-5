@@ -3,6 +3,7 @@ package net.kaupenjoe.mccourse.item;
 import net.fabricmc.fabric.api.itemgroup.v1.FabricItemGroup;
 import net.kaupenjoe.mccourse.MCCourseMod;
 import net.kaupenjoe.mccourse.block.ModBlocks;
+import net.kaupenjoe.mccourse.fluid.ModFluids;
 import net.minecraft.item.ItemGroup;
 import net.minecraft.item.ItemStack;
 import net.minecraft.registry.Registries;
@@ -25,6 +26,7 @@ public class ModItemGroups {
                         entries.add(ModItems.BAR_BRAWL_MUSIC_DISC);
 
                         entries.add(ModItems.SPECTRE_STAFF);
+                        entries.add(ModFluids.FLUORITE_WATER_BUCKET);
 
                     }).build());
 
