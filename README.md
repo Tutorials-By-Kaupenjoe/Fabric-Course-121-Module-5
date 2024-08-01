@@ -6,7 +6,7 @@
 # Modding by Kaupenjoe: Fabric Modding for Minecraft 1.21.X
 This is the GitHub Repository for Kaupenjoe's Minecraft Modding Course using Fabric for version 1.21.X. 
 
-It covers a variety of Topics, from Custom Tools, to Custom Armor, all the way to Custom Block Entities and Custom Mobs. This is the GitHub Repository for Module 2, there are other repos for the other modules too
+It covers a variety of Topics, from Custom Tools, to Custom Armor, all the way to Custom Block Entities and Custom Mobs. This is the GitHub Repository for Module 5, there are other repos for the other modules too
 
 The Source Code will always be freely available under the MIT-License, but to support me you can buy the Course which gets you almost 10 Hours of Video Lectures with more to come!
 
