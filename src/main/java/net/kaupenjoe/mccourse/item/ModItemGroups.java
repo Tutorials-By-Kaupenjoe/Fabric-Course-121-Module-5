@@ -57,6 +57,7 @@ public class ModItemGroups {
                         entries.add(ModBlocks.FLUORITE_TRAPDOOR);
 
                         entries.add(ModBlocks.PEDESTAL);
+                        entries.add(ModBlocks.CRYSTALLIZER);
 
                     }).build());
 

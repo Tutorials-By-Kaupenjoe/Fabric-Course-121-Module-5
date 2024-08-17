@@ -1,6 +1,7 @@
 package net.kaupenjoe.mccourse.block;
 
 import net.kaupenjoe.mccourse.MCCourseMod;
+import net.kaupenjoe.mccourse.block.custom.CrystallizerBlock;
 import net.kaupenjoe.mccourse.block.custom.MagicBlock;
 import net.kaupenjoe.mccourse.block.custom.PedestalBlock;
 import net.kaupenjoe.mccourse.sound.ModSounds;
@@ -60,6 +61,9 @@ public class ModBlocks {
 
     public static final Block PEDESTAL = registerBlock("pedestal",
             new PedestalBlock(AbstractBlock.Settings.create().strength(4f).requiresTool().nonOpaque()));
+
+    public static final Block CRYSTALLIZER = registerBlock("crystallizer",
+            new CrystallizerBlock(AbstractBlock.Settings.create().strength(2f).requiresTool()));
 
 
     private static Block registerBlock(String name, Block block) {
