@@ -1,4 +1,4 @@
-// 1.21.1	2024-08-17T21:00:49.8847379	MC Course Mod/Model Definitions
+// 1.21.1	2024-08-18T14:42:11.258991	MC Course Mod/Model Definitions
 f1576a0d92bd6dddcefa45c5b355fa6c609f1c51 assets\mccourse\models\block\fluorite_button_inventory.json
 84d4577e7b636ea9e6a2b6bb513e557d4051a32b assets\mccourse\models\block\fluorite_stairs_outer.json
 0c557fa888aa588865ad6422a2e2cd196464ecfb assets\mccourse\models\block\fluorite_ore.json
@@ -57,8 +57,8 @@ ce8b89d73a1830da6c4017885f8cb6536b5ec8ac assets\mccourse\blockstates\crystallize
 db22cc136c9699563c45dea7e2328049e01965fe assets\mccourse\models\item\fluorite.json
 4d3289c10cdcdfff9327db225949a134a9b73498 assets\mccourse\blockstates\fluorite_stairs.json
 7c97822324151c00344bb3016998dd28fcaffdb2 assets\mccourse\blockstates\fluorite_fence.json
-1dd9bf7e5671d59ec87c0caf8ce2e2830172dce0 assets\mccourse\models\item\fluorite_door.json
 a28afaf6baa46a2ec0d7bbd7981973ca78d422d9 assets\mccourse\blockstates\fluorite_pressure_plate.json
+1dd9bf7e5671d59ec87c0caf8ce2e2830172dce0 assets\mccourse\models\item\fluorite_door.json
 f99948d4089c78a993e0252e1e821d091394da75 assets\mccourse\blockstates\fluorite_ore.json
 18614f2c0beb398707f0e5080851a87ff6f5de1d assets\mccourse\models\block\fluorite_door_top_right.json
 2077b3b65b1dd3d36113e8207d722fe47ae5979e assets\mccourse\models\block\fluorite_fence_side.json
